@@ -1,0 +1,24 @@
+{
+  "name": "discord-rpc",
+  "version": "1.0.0",
+  "description": "Discord-RPC For User Rich Presence",
+  "main": "app.js",
+  "scripts": {
+    "test": "rpc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Habeeb30/Discord-RPC.git"
+  },
+  "keywords": [
+    "rich-presence",
+    "disocrd-rpc",
+    "disocrd"
+  ],
+  "author": "Habeeb M",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Habeeb30/Discord-RPC/issues"
+  },
+  "homepage": "https://github.com/Habeeb30/Discord-RPC#readme"
+}
